@@ -1,0 +1,15 @@
+# Streamlit app (upload mode)
+streamlit>=1.50
+pandas>=2.2
+duckdb>=1.1
+openpyxl>=3.1
+sqlglot>=25
+python-dotenv>=1.0
+google-genai>=1.0
+
+# FastAPI backend (Supabase mode)
+fastapi>=0.110
+uvicorn>=0.30
+pydantic>=2.0
+SQLAlchemy>=2.0
+pg8000>=1.30
